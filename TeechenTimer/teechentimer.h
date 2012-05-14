@@ -16,7 +16,7 @@ public:
 	QTime timeValue;
 
 private:
-
+	//testgit ob sich was ändert
 	bool ok;
 	QString mm, ss, hh, cc;
 	int iss, icc;
