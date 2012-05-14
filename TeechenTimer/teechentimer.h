@@ -17,6 +17,7 @@ public:
 
 private:
 	//testgit ob sich was ändert
+	//komisch
 	bool ok;
 	QString mm, ss, hh, cc;
 	int iss, icc;
